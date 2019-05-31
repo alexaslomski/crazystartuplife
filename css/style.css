@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Kodchasan|Lobster|Paytone+One|Righteous|Special+Elite');
+
+.navbar-brand, .footer-copyright {
+    font-family: 'Kodchasan', sans-serif;
+     color: #ef0f8a;
+     font-weight: bold;
+
+}
+
+.navbar, .footer-copyright {
+    background-color:#eaea06;
+}
+
+.navbar-nav {
+    margin-top: 6px;
+}
+
+h2, .list-group-item {
+    font-family: 'Kodchasan', sans-serif;  
+    font-weight: bold;
+}
+
+a {
+    color: #ef0f8a;
+    font-family: 'Kodchasan', sans-serif;
+    font-weight: bold;
+
+}
+
+a:hover {
+    color: rgb(238, 24, 220);
+}
+
+.row, .card {
+    border: transparent;
+    max-width: 100%;
+}
+
+.card-title {
+    font-family: 'Special Elite', cursive; 
+}
+
+.card-text {
+    font-size: 1.5rem;
+    font-family: 'Special Elite', cursive;
+}
+
+.btn {
+    background-color: #ef0f8a;
+    color: #eaea06;
+    font-weight: bold;
+}
